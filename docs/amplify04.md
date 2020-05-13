@@ -195,7 +195,7 @@ npx amplify-app@latest
 Если у вас React Native Cli, то
 
 ```bash
-yarn add @aws-amplify/datastore @aws-amplify/core @react-native-community/netinfo @react-native-community/async-storage
+yarn add @aws-amplify/datastore @react-native-community/netinfo @react-native-community/async-storage
 ```
 
 И если вы используете React Native> 0.60, то выполните следующую команду для iOS:
